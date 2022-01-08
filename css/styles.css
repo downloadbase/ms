@@ -5,6 +5,9 @@ h1 {
   text-align: center;
   color: #000957;
 }
+img {
+align: center;
+}
 .myButton {
 	box-shadow:inset 0px 1px 0px 0px #bbdaf7;
 	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
